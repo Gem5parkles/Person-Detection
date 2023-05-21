@@ -1,14 +1,14 @@
 # Person Detection 
 
- A resnet(?) model that determines if a person is on camera.
+ A resnet-18 model that determines if a person is on camera.
 
-![add image descrition here](direct image link here)
 
 ## The Algorithm
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
-
+Some relavent information
+https://pytorch.org/hub/pytorch_vision_resnet/
 
 ## Running this project
 
