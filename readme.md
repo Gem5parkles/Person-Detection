@@ -5,10 +5,7 @@
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
-
-Some relavent information
-https://pytorch.org/hub/pytorch_vision_resnet/
+A Residual Network (Resnet) is a neural network designed to be more accurate by adding shortcuts to skip some layers (note, a layer is basically stacking blocks of information), this helps build deeper network layers without the issue of vanishing gradients. 
 
 ## Running this project
 
