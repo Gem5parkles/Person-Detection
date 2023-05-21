@@ -12,6 +12,9 @@ A Residual Network (Resnet) is a neural network designed to be more accurate by 
 
 1. Open a new terminal in Visual Studio, change directories into "Person-Detection/my-recognition" (cd Person-Detection/my-recognition), Run "python3 my-recognition.py (insert name of file, example 14.png)".
 2. Needed Librares
+
 -Pytorch
+
 -Jetson-Inference
+
 *sorry I didn't get a chance to record a video
