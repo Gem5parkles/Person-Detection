@@ -1,7 +1,8 @@
 # Person Detection 
 
- A resnet-18 model that determines if a person is on camera.
+ A resnet-18 model that determines if a person is on camera. 
 
+Please note that I have no clue what I'm doing or how any of this works, I apologize for how bad the instrutions are.
 
 ## The Algorithm
 
@@ -9,7 +10,8 @@ A Residual Network (Resnet) is a neural network designed to be more accurate by 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
-[View a video explanation here](video link)
+1. Open a new terminal in Visual Studio, change directories into "Person-Detection/my-recognition" (cd Person-Detection/my-recognition), Run "python3 my-recognition.py (insert name of file, example 14.png)".
+2. Needed Librares
+-Pytorch
+-Jetson-Inference
+*sorry I didn't get a chance to record a video
