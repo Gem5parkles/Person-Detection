@@ -2,7 +2,7 @@
 
  A resnet-18 model that determines if a person is on camera. 
 
-Please note that I have no clue what I'm doing or how any of this works, I apologize for how bad the instrutions are.
+Please note that I have no clue what I'm doing or how any of this works, I apologize for how bad the instructions are.
 
 ## The Algorithm
 
